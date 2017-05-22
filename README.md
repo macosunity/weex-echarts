@@ -3,5 +3,5 @@
 
 运行：
 
-cnpm install -g weexpack
-weexpack build android(或 weexpack build web)
+###cnpm install -g weexpack
+###weexpack build android (或 weexpack build web)
